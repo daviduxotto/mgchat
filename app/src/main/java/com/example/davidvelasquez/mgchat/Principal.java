@@ -16,6 +16,7 @@ import java.util.List;
 public class Principal extends AppCompatActivity {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;
@@ -25,11 +26,14 @@ public class Principal extends AppCompatActivity {
 >>>>>>> parent of 0b40406... pre-inicio -session
 =======
 >>>>>>> parent of 0b40406... pre-inicio -session
+=======
+>>>>>>> parent of 0b40406... pre-inicio -session
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -117,6 +121,11 @@ public class Principal extends AppCompatActivity {
     }
 }
 =======
+=======
+
+
+    }
+>>>>>>> parent of 0b40406... pre-inicio -session
 =======
 
 
